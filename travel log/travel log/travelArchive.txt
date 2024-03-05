@@ -1,0 +1,4 @@
+1;Turkey;22/02/2022;02/03/2022;Business
+2;Italy;15/07/2022;28/07/2022;Holiday
+3;Cyprus;15/09/2022;27/01/2023;Education
+4;Turkey;26/02/2023;01/03/2022;Holiday
